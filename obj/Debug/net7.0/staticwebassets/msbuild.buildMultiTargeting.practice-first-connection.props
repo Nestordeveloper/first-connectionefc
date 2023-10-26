@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\practice-first-connection.props" />
+</Project>
